@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain==0.3.30
+langchain-google-genai==2.0.10
+langchain-text-splitters==0.3.11
+langchain-core==0.3.86
+langchain-community==0.3.31
+langchain-huggingface==0.1.2
+youtube-transcript-api
+langchain-chroma
+pydantic
+python-dotenv
+langchain-openai
